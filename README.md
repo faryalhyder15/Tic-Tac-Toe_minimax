@@ -52,17 +52,17 @@ Make sure Python is installed on your system.
 ### 🔹 Step 2: Clone Repository
 ```bash
 git clone https://github.com/your-username/tictactoe-ai.git
-cd tictactoe-ai
+cd tictactoe-ai ```
 
 ---
-### 📊 Results
+**### 📊 Results**
 Both agents play optimally
 Game always results in a Draw
 Confirms correctness of Minimax strategy
 
 ---
-
-### 📚 Concepts Covered
+**
+### 📚 Concepts Covered**
 Artificial Intelligence
 Adversarial Search
 Game Theory
@@ -71,10 +71,10 @@ Alpha-Beta Pruning
 
 ---
 
-### 🚀 Future Improvements
+**### 🚀 Future Improvements**
 🎨 Add GUI (Tkinter / Pygame)
 👤 Human vs AI mode
 📈 Visualization of search tree
 🎯 Extend to larger games (e.g., Connect-4)
 👩‍💻 Author
-## Faryal Jafferi
+**## Faryal Jafferi**
