@@ -46,13 +46,13 @@ README.md # Project documentation
 
 ## ▶️ How to Run
 
-### 🔹 Step 1: Install Python
+### Step 1: Install Python
 Make sure Python is installed on your system.
 
-### 🔹 Step 2: Clone Repository
+### Step 2: Clone Repository
 ```bash
 git clone https://github.com/your-username/tictactoe-ai.git
-cd tictactoe-ai ```
+cd tictactoe-ai
 
 ## 📊 Results
 
